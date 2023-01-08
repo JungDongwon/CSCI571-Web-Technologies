@@ -6,14 +6,19 @@ This repository is for projects done in CSCI571 Web Technologies course by Prof.
   - Given an image of a web page, reproduce the page as closely as possible, writing HTML and CSS directly, that is without using anything more than a text editor.
 
 ## Homework 6: Server-side Scripting using Python, Flask, JSON, AJAX, and Yelp API
-- [Video Demo](https://youtu.be/qO-M1oU7yXQ)
+- [Video Demo](https://www.youtube.com/watch?v=qO-M1oU7yXQ)
 - Description:
   - Create a webpage that allows users to search for business information using the Yelp API, and the results will be displayed in a card and tabular format.
 
 ## Homework 8: Ajax, JSON, Angular, Bootstrap, RWD, Node.js, and Yelp API
-- Video Demo
+- [Video Demo](https://www.youtube.com/watch?v=uqDARrie04U)
 - Description:
   - Create a web application that allows users to
     - search for business information using the Yelp API, and the results will be displayed in a card and tabular format. 
     - make reservations and see the list of their reservations. 
     - share a post on Facebook and tweet on Twitter about the business.
+    
+## Homework 9: Java, JSON, Android Lifecycle, and Android Studio for Android app development
+- [Video Demo](https://www.youtube.com/watch?v=uqDARrie04U)
+- Description:
+  - Create a mobile version of HW8
