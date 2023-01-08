@@ -19,6 +19,6 @@ This repository is for projects done in CSCI571 Web Technologies course by Prof.
     - share a post on Facebook and tweet on Twitter about the business.
     
 ## Homework 9: Java, JSON, Android Lifecycle, and Android Studio for Android app development
-- [Video Demo](https://www.youtube.com/watch?v=uqDARrie04U)
+- [Video Demo](https://www.youtube.com/watch?v=UrwpmWwzYz8)
 - Description:
   - Create a mobile version of HW8
